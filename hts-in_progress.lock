@@ -1,0 +1,7 @@
+Mirror in progress since Mon, 02 Oct 2023 11:36:13 .. please wait!
+httrack www.ey.com/pt_mz -O Copy/ 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=3224
+UID=0
+GID=0
+START=1696246573
